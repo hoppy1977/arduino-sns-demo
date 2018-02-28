@@ -73,6 +73,13 @@ ipch/
 *.opensdf
 *.sdf
 
+
+#################
+## Visual Micro
+#################
+__vm/
+
+
 # Visual Studio profiler
 *.psess
 *.vsp
