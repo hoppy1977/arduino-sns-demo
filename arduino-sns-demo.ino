@@ -3,6 +3,11 @@
 #include <HttpClient.h>
 #include <RTClib.h>
 
+// Dependencies:
+// - RTClib Library
+// https://github.com/adafruit/RTClib
+
+
 // ===============
 // Amazon AWS configuration
 #define     AWS_ACCESS_KEY         "your_AWS_access_key"                               // Put your AWS access key here.
