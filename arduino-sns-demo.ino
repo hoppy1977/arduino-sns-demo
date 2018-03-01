@@ -55,7 +55,7 @@ void setup()
 
 void loop()
 {
-	snsPublish(SNS_TOPIC_ARN, "It%20is%20working%21");
+	snsPublish(SNS_TOPIC_ARN, "Arduino%20rules%21");
 	delay(30000);
 }
 
